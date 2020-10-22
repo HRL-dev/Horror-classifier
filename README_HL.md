@@ -2,11 +2,11 @@
 
 ## Links to Relevant Notebooks
 
-[Grabbing Data](../grabbing_data.ipynb)
+[Grabbing Data](../master/grabbing_data.ipynb)
 
-[EDA and Comparison](../eda_and_comparison.ipynb)
+[EDA and Comparison](../master/eda_and_comparison.ipynb)
 
-[Modeling](../modeling.ipynb)
+[Modeling](../master/modeling.ipynb)
 
 
 ## Problem Statement
